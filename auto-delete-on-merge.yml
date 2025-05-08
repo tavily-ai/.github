@@ -1,0 +1,21 @@
+name: Auto‑Enable “Delete Head Branch” on Merge
+
+on:
+  repository:
+    types: [created]
+
+jobs:
+  enable-auto-delete:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Turn on auto‑delete for new repo
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.repos.update({
+              owner: context.payload.repository.owner.login,
+              repo: context.payload.repository.name,
+              delete_branch_on_merge: true
+            })
+
