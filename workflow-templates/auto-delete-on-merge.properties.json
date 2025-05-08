@@ -1,0 +1,9 @@
+// workflow-templates/auto-delete-on-merge.properties.json
+{
+  "name": "Auto‑delete merged branches",
+  "description": "Automatically delete the head branch after a pull request is merged.",
+  "iconName": "octicon git-branch-delete",
+  "categories": ["Automation"],
+  "filePatterns": []
+}
+
