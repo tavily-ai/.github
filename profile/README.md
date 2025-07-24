@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 
-<h1 align="center">Tavily — Making the web instantly accessible for AI 🚀</h1>
+<h1 align="center">Tavily — The Web Access Layer for AI Agents</h1>
 
 
 <p align="center">
@@ -52,12 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166" alt="tavily-js" />
 </a>
 
-<a href="https://github.com/tavily-ai/meeting-prep-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166" alt="meeting-prep-agent" />
-</a>
-<a href="https://github.com/tavily-ai/use-cases">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=use-cases&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166" alt="use-cases" />
-</a>
 <a href="https://github.com/tavily-ai/tavily-mcp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166" alt="tavily-mcp" />
 </a>
@@ -72,13 +66,15 @@
 <div align="center">
 
 <a href="https://app.tavily.com/home">
-  <img src="https://img.shields.io/badge/Get_API_Key_for_Free-58a6ff?style=for-the-badge&logo=key&logoColor=white" alt="Get A Free API Key"/>
+  <img src="https://img.shields.io/badge/Free_API_Key-58a6ff?style=for-the-badge&logo=key&logoColor=white" alt="Get A Free API Key"/>
 </a>
+
 <a href="https://app.tavily.com/playground">
-  <img src="https://img.shields.io/badge/Try_In_Playground-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Try In Playground"/>
+  <img src="https://img.shields.io/badge/Playground-red?style=for-the-badge&logoColor=0d1117" alt="Playground"/>
 </a>
+
 <a href="https://docs.tavily.com/welcome">
-  <img src="https://img.shields.io/badge/Learn_More_•_Docs-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Learn More - Docs"/>
+  <img src="https://img.shields.io/badge/Docs-f5cb25?style=for-the-badge&logoColor=0d1117" alt="Learn More - Docs"/>
 </a>
 
 </div>
