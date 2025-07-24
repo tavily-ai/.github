@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 
-<h1 align="center">Tavily — Making the web instantly accessible for AI 🚀</h1>
+<h1 align="center">Tavily - The Web Access Layer for AI Agents</h1>
 
 
 <p align="center">
@@ -13,25 +13,25 @@
 
 <p>
 <a href="https://www.tavily.com/">
-  <img src="https://img.shields.io/badge/Trusted_by_600K%2B_Developers-1e90ff?style=for-the-badge&logo=users&logoColor=white" alt="Trusted by 600K+ Developers"/>
+  <img src="https://img.shields.io/badge/Trusted_by_600K%2B_Developers-ff5b6b?style=for-the-badge&logo=users&logoColor=white" alt="Trusted by 600K+ Developers"/>
 </a>
 <a href="https://www.npmjs.com/package/@tavily/core">
-  <img src="https://img.shields.io/npm/dt/@tavily/core?style=for-the-badge&logo=npm&logoColor=white&label=NPM%20Downloads&color=CB3837" alt="NPM Downloads"/>
+  <img src="https://img.shields.io/npm/dt/@tavily/core?style=for-the-badge&logo=npm&logoColor=white&label=NPM%20Downloads&color=ff5b6b" alt="NPM Downloads"/>
 </a>
 <a href="https://pepy.tech/project/tavily-python">
-  <img src="https://img.shields.io/pepy/dt/tavily-python?style=for-the-badge&logo=python&logoColor=white&label=Python%20Downloads&color=f78166" alt="Python Downloads"/>
+  <img src="https://img.shields.io/pepy/dt/tavily-python?style=for-the-badge&logo=python&logoColor=white&label=Python%20Downloads&color=ff5b6b" alt="Python Downloads"/>
 </a>
 </p>
 
 <p>
-<a href="https://status.tavily.com/">
-  <img src="https://img.shields.io/badge/API%20Status-00d084?style=for-the-badge&logo=statuspage&logoColor=white" alt="API Status"/>
-</a>
 <a href="https://www.linkedin.com/company/tavily">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Follow_us_on_LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Follow us on LinkedIn"/>
 </a>
 <a href="https://x.com/tavilyai">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Follow_us_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow us on X"/>
+</a>
+<a href="https://status.tavily.com/">
+  <img src="https://img.shields.io/badge/API%20Status-00d084?style=for-the-badge&logo=statuspage&logoColor=white" alt="API Status"/>
 </a>
 </p>
 
@@ -46,17 +46,10 @@
 <div align="center">
 
 <a href="https://github.com/tavily-ai/tavily-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166" alt="tavily-python" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=0d1217&title_color=58a6ff&text_color=e6edf3&icon_color=f78166" alt="tavily-python" />
 </a>
 <a href="https://github.com/tavily-ai/tavily-js">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166" alt="tavily-js" />
-</a>
-
-<a href="https://github.com/tavily-ai/meeting-prep-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166" alt="meeting-prep-agent" />
-</a>
-<a href="https://github.com/tavily-ai/use-cases">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=use-cases&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166" alt="use-cases" />
 </a>
 <a href="https://github.com/tavily-ai/tavily-mcp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166" alt="tavily-mcp" />
@@ -72,13 +65,13 @@
 <div align="center">
 
 <a href="https://app.tavily.com/home">
-  <img src="https://img.shields.io/badge/Get_API_Key_for_Free-58a6ff?style=for-the-badge&logo=key&logoColor=white" alt="Get A Free API Key"/>
+  <img src="https://img.shields.io/badge/Free_API_Key-ff5b6b?style=for-the-badge&logo=gift&logoColor=white" alt="Free API Key"/>
 </a>
 <a href="https://app.tavily.com/playground">
-  <img src="https://img.shields.io/badge/Try_In_Playground-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Try In Playground"/>
+  <img src="https://img.shields.io/badge/Playground-0066cc?style=for-the-badge&logo=play&logoColor=white" alt="Playground"/>
 </a>
 <a href="https://docs.tavily.com/welcome">
-  <img src="https://img.shields.io/badge/Learn_More_•_Docs-56d4dd?style=for-the-badge&logo=gitbook&logoColor=0d1117" alt="Learn More - Docs"/>
+  <img src="https://img.shields.io/badge/Documentation-e7a910?style=for-the-badge&logo=book&logoColor=white" alt="Documentation"/>
 </a>
 
 </div>
@@ -126,9 +119,6 @@ Optimized for relevancy and low latency. Get real-time, contextual information f
 
 ### 📄 **Extract** structured data from URLs  
 Supporting summaries, Markdown, or cleaned text. Transform any webpage into LLM-ready data with automatic content cleaning, format conversion, and text extraction that preserves structure and meaning.
-
-### 🗺️ **Map** the web into graphs
-Get thousands of URLs and their structure in one request. Discover content relationships, site hierarchies, and linked data networks to understand how information connects across the web.
 
 ### 🕸️ **Crawl** entire domains at scale
 Optimized for intelligent URL decisions and results. Navigate complex websites with smart crawling strategies that respect robots.txt, handle dynamic content, and efficiently discover all accessible pages.
