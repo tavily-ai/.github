@@ -38,7 +38,9 @@
 </div>
 
 <p align="center">
-  <img src="assets/tavily.png" alt="Tavily" width="120">
+  <a href="https://www.tavily.com/">
+    <img src="assets/tavily.png" alt="Tavily" width="120">
+  </a>
 </p>
 
 ---
