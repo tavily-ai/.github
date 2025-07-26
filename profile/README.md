@@ -50,13 +50,13 @@
 <div align="center">
 
 <a href="https://github.com/tavily-ai/tavily-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=0d1217&title_color=58a6ff&text_color=e6edf3&icon_color=f78166" alt="tavily-python" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=0d1217&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=2" alt="tavily-python" />
 </a>
 <a href="https://github.com/tavily-ai/tavily-js">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166" alt="tavily-js" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=2" alt="tavily-js" />
 </a>
 <a href="https://github.com/tavily-ai/tavily-mcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166" alt="tavily-mcp" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=2" alt="tavily-mcp" />
 </a>
 
 </div>
