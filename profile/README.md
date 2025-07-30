@@ -50,17 +50,52 @@
 <div align="center">
 
 <a href="https://github.com/tavily-ai/tavily-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=0d1217&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=2" alt="tavily-python" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-python&bg_color=0d1217&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=3" alt="tavily-python" />
 </a>
 <a href="https://github.com/tavily-ai/tavily-js">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=2" alt="tavily-js" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-js&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=3" alt="tavily-js" />
 </a>
 <a href="https://github.com/tavily-ai/tavily-mcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=2" alt="tavily-mcp" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-mcp&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=4" alt="tavily-mcp" />
 </a>
 
 </div>
 
+---
+
+<h2 align="center">Featured Use Cases</h2>
+
+<div align="center">
+
+<a href="https://github.com/tavily-ai/tavily-chat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-chat&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=3" alt="tavily-chat" />
+</a>
+<a href="https://github.com/tavily-ai/crawl2rag">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=crawl2rag&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=4" alt="crawl2rag" />
+</a>
+<a href="https://github.com/tavily-ai/tavily-sheets">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-sheets&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=3" alt="tavily-sheets" />
+</a>
+<a href="https://github.com/tavily-ai/meeting-prep-agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=meeting-prep-agent&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=3" alt="meeting-prep-agent" />
+</a>
+<a href="https://github.com/guy-hartstein/company-research-agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guy-hartstein&repo=company-research-agent&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=2" alt="company-research-agent" />
+</a>
+
+</div>
+
+---
+
+<h2 align="center">Guides & Tutorials</h2>
+
+<div align="center">
+
+<a href="https://github.com/tavily-ai/tavily-cookbook">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tavily-ai&repo=tavily-cookbook&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=f78166&v=4" alt="tavily-cookbook" />
+</a>
+
+</div>
 
 ---
 
