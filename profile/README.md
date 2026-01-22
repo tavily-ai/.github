@@ -9,43 +9,12 @@
   </a>
 </p>
 
-<p align="center"><em>Search • Extract • Map • Crawl</em></p>
-
-<div align="center">
-
-<p>
-<a href="https://www.tavily.com/">
-  <img src="https://img.shields.io/badge/Trusted_by_600K%2B_Developers-ff5b6b?style=for-the-badge&logo=users&logoColor=white" alt="Trusted by 600K+ Developers"/>
-</a>
-<a href="https://www.npmjs.com/package/@tavily/core">
-  <img src="https://img.shields.io/npm/dt/@tavily/core?style=for-the-badge&logo=npm&logoColor=white&label=NPM%20Downloads&color=ff5b6b" alt="NPM Downloads"/>
-</a>
-<a href="https://pepy.tech/project/tavily-python">
-  <img src="https://img.shields.io/pepy/dt/tavily-python?style=for-the-badge&logo=python&logoColor=white&label=Python%20Downloads&color=ff5b6b" alt="Python Downloads"/>
-</a>
-</p>
-
-<p>
-<a href="https://www.linkedin.com/company/tavily">
-  <img src="https://img.shields.io/badge/Follow_us_on_LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Follow us on LinkedIn"/>
-</a>
-<a href="https://x.com/tavilyai">
-  <img src="https://img.shields.io/badge/Follow_us_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow us on X"/>
-</a>
-<a href="https://status.tavily.com/">
-  <img src="https://img.shields.io/badge/API%20Status-00d084?style=for-the-badge&logo=statuspage&logoColor=white" alt="API Status"/>
-</a>
-</p>
-
-</div>
 
 <p align="center">
   <a href="https://www.tavily.com/">
     <img src="assets/tavily.png" alt="Tavily" width="120">
   </a>
 </p>
-
----
 
 <div align="center">
 
