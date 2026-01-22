@@ -1,18 +1,9 @@
 <!-- Hero Section -->
 
-<h1 align="center">Tavily - The Web Access Layer for AI Agents</h1>
-
 
 <p align="center">
   <a href="https://www.tavily.com/">
-    <img src="assets/feature.gif" alt="Tavily Demo" width="100%" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://www.tavily.com/">
-    <img src="assets/tavily.png" alt="Tavily" width="120">
+    <img src="assets/tavily_logo_v2.png" alt="Tavily" width="120">
   </a>
 </p>
 
@@ -20,19 +11,19 @@
 
 <a href="https://pypi.org/project/tavily-python/">
   <img
-    src="https://img.shields.io/pypi/dm/tavily-python?style=for-the-badge&label=tavily-python&color=58a6ff&labelColor=0d1217"
+    src="https://img.shields.io/pypi/dm/tavily-python?style=for-the-badge&label=tavily-python&color=70a790&labelColor=0B0907"
     alt="tavily-python downloads/month"
   />
 </a>
 <a href="https://www.npmjs.com/package/tavily">
   <img
-    src="https://img.shields.io/npm/dm/tavily?style=for-the-badge&label=tavily-js&color=58a6ff&labelColor=0d1117"
+    src="https://img.shields.io/npm/dm/tavily?style=for-the-badge&label=tavily-js&color=70a790&labelColor=0B0907"
     alt="tavily-js downloads/month"
   />
 </a>
 <a href="https://www.npmjs.com/package/tavily-mcp">
   <img
-    src="https://img.shields.io/npm/dm/tavily-mcp?style=for-the-badge&label=tavily-mcp&color=58a6ff&labelColor=0d1117"
+    src="https://img.shields.io/npm/dm/tavily-mcp?style=for-the-badge&label=tavily-mcp&color=70a790&labelColor=0B0907"
     alt="tavily-mcp downloads/month"
   />
 </a>
@@ -44,13 +35,13 @@
 <div align="center">
 
 <a href="https://app.tavily.com/home">
-  <img src="https://img.shields.io/badge/Free_API_Key-ff5b6b?style=for-the-badge&logo=gift&logoColor=white" alt="Free API Key"/>
+  <img src="https://img.shields.io/badge/Free_API_Key-70a790?style=for-the-badge&logo=gift&logoColor=white" alt="API Key"/>
 </a>
 <a href="https://app.tavily.com/playground">
-  <img src="https://img.shields.io/badge/Playground-0066cc?style=for-the-badge&logo=play&logoColor=white" alt="Playground"/>
+  <img src="https://img.shields.io/badge/Playground-70a790?style=for-the-badge&logo=play&logoColor=white" alt="Playground"/>
 </a>
 <a href="https://docs.tavily.com/welcome">
-  <img src="https://img.shields.io/badge/Documentation-e7a910?style=for-the-badge&logo=book&logoColor=white" alt="Documentation"/>
+  <img src="https://img.shields.io/badge/Documentation-70a790?style=for-the-badge&logo=book&logoColor=white" alt="Documentation"/>
 </a>
 
 </div>
