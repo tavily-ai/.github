@@ -9,24 +9,6 @@
 
 <div align="center">
 
-<a href="https://pypi.org/project/tavily-python/">
-  <img
-    src="https://img.shields.io/pypi/dm/tavily-python?style=for-the-badge&label=tavily-python&color=70a790&labelColor=0B0907"
-    alt="tavily-python downloads/month"
-  />
-</a>
-<a href="https://www.npmjs.com/package/tavily">
-  <img
-    src="https://img.shields.io/npm/dm/tavily?style=for-the-badge&label=tavily-js&color=70a790&labelColor=0B0907"
-    alt="tavily-js downloads/month"
-  />
-</a>
-<a href="https://www.npmjs.com/package/tavily-mcp">
-  <img
-    src="https://img.shields.io/npm/dm/tavily-mcp?style=for-the-badge&label=tavily-mcp&color=70a790&labelColor=0B0907"
-    alt="tavily-mcp downloads/month"
-  />
-</a>
 
 </div>
 
